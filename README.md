@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gabriel da Conceição, currently a Computer Networks student, Site Reliability Engineering</p>
+<p align="left">My name is Gabriel da Conceição, currently a Computer Networks student, DevOps Engineer</p>
 
 ###
 
